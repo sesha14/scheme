@@ -1,2 +1,0 @@
-Hello, third commit!
-Small change added to feature branch
