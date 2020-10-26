@@ -5,4 +5,4 @@
      (else (countzeroes (cdr ls)))
  )
 )
-(display (countzeroes '( 6 0 5 0 0 1 0 )))
+(display (countzeroes '( 6 0 5 0 0 1 0 1)))
